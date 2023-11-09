@@ -24,3 +24,6 @@ h3 {
 table td {
   border: 1px solid;
 }
+
+ul {list-style-type: none;}
+
