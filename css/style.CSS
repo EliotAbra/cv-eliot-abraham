@@ -44,3 +44,17 @@ img {
 .ctc{
   text-align: center;
 }
+
+.titre {
+  display: flex;
+  justify-content: space-around;
+}
+
+.titre2 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.profil {
+  text-align: center;
+}
